@@ -1,5 +1,6 @@
 {
     "CocktailApi": {
-        "Categories": "Http://www.thecocktaildb.com/api/json/v1/1/list.php?c=list"
+        "Categories": "https://www.thecocktaildb.com/api/json/v1/1/list.php?c=list",
+        "FilterByCategory": "https://www.thecocktaildb.com/api/json/v1/1/filter.php?c="
     }
 }
