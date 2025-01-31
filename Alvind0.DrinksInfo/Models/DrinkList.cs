@@ -1,5 +1,4 @@
 ﻿using System.Text.Json.Serialization;
-
 namespace Alvind0.DrinksInfo.Models;
 
 public class DrinkList
